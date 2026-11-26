@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Qexam Teacher</string>
+    <string name="title_activity_main">Qexam Teacher</string>
+    <string name="package_name">com.qexam.teacher</string>
+    <string name="custom_url_scheme">com.qexam.teacher</string>
+</resources>
